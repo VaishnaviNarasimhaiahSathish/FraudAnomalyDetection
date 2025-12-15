@@ -76,6 +76,12 @@ Trained only on *normal* transactions:
 
 Key findings:
 
+
+<p align="center">
+  <img src="/assets/class_imbalance_plot.png" alt="App Screenshot" width="550">
+</p>
+
+
 * Fraud = **0.172%** of data (highly imbalanced)
 * PCA visualization shows slight separation but still overlapping regions
 * t-SNE visualization reveals distinct fraud clusters in 2D space
