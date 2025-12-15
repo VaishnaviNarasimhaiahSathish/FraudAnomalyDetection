@@ -172,6 +172,10 @@ The app allows users to:
 * Download results as CSV
 
 A clean UI with descriptions for each model is included.
+<p align="center">
+  <img src="/assets/UI_Demo.png" alt="PCA PROJECTION PLOT" width="550">
+</p>
+
 
 ---
 
