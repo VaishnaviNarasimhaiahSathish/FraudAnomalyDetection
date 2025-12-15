@@ -126,6 +126,12 @@ Manually computed TP, FP, FN, TN:
 * **False Negatives:** 72
 * **True Negatives:** 271537
 
+  
+<p align="center">
+  <img src="/assets/pca_plot.png" alt="PCA PROJECTION PLOT" width="550">
+</p>
+
+
 Additional insights:
 
 * FN errors overlap heavily with TP errors
