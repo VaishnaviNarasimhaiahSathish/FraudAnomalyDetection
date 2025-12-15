@@ -83,8 +83,20 @@ Key findings:
 
 
 * Fraud = **0.172%** of data (highly imbalanced)
+<p align="center">
+  <img src="/assets/class_imbalance_plot" alt="PCA PROJECTION PLOT" width="550">
+</p>
+
 * PCA visualization shows slight separation but still overlapping regions
+<p align="center">
+  <img src="/assets/pca_plot.png" alt="PCA PROJECTION PLOT" width="550">
+</p>
+
 * t-SNE visualization reveals distinct fraud clusters in 2D space
+ <p align="center">
+  <img src="/assets/tSNE_plot.png" alt="PCA PROJECTION PLOT" width="550">
+</p>
+
 * Several features (V14, V12, V4) have stronger correlation with fraud
 
 ---
@@ -132,9 +144,8 @@ Manually computed TP, FP, FN, TN:
 * **False Negatives:** 72
 * **True Negatives:** 271537
 
-  
 <p align="center">
-  <img src="/assets/pca_plot.png" alt="PCA PROJECTION PLOT" width="550">
+  <img src="/assets/errorDistribution.png" alt="PCA PROJECTION PLOT" width="550">
 </p>
 
 
