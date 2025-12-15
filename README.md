@@ -34,6 +34,19 @@ FraudAnomalyDetection/
 ├── notebooks/
 |   ├──FraudDetectionAnomaly.ipynb
 |
+├── assets/                   
+│   ├── class_imbalance_plot.png
+│   ├── pca_plot.png
+│   ├── tSNE_plot.png
+│   ├── loss_autoencoder.png
+│   ├── loss_DeepAutoencoder.png
+│   ├── reconstruction(DeepAE)_fraud.png
+│   ├── reconstruction(DeepAE).png
+│   ├── reconstructionError(SAE).png
+│   ├── reconstruction(DeepAE)_scatter.png
+│   ├── ROC_curve(DeepAE).png
+│   ├── errorDistribution.png
+│   └── UI_Demo.png
 ├── requirements.txt 
 ├── app.py
 └── README.md
