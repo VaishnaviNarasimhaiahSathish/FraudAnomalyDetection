@@ -107,15 +107,15 @@ Unsupervised Models (Autoencoders)
 
 # Observations
 
-Best Supervised Model: XGBoost (best balance of precision & recall)
+**Best Supervised Model:** XGBoost (best balance of precision & recall)
 
-Best Precision: Random Forest
+**Best Precision:** Random Forest
 
-Best Recall: Logistic Regression (but at cost of precision)
+**Best Recall:** Logistic Regression (but at cost of precision)
 
-Autoencoder: Excellent recall but low precision (typical for anomaly detection)
+**Autoencoder:** Excellent recall but low precision (typical for anomaly detection)
 
-Oversampling: Increases recall, reduces precision (more false positives)
+**Oversampling:** Increases recall, reduces precision (more false positives)
 
 # Error Analysis
 
