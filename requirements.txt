@@ -1,0 +1,20 @@
+# Core ML / Data
+numpy<2
+pandas
+scikit-learn
+xgboost==1.7.3
+imbalanced-learn
+
+# Deep Learning
+torch
+
+# Visualization (used in notebook)
+matplotlib
+seaborn
+
+# App + Model Serving
+streamlit
+joblib
+
+# Optional but common utils
+tqdm

@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+
+# Models
+models/*.pth
+models/*.pkl
+
+# Data files (keep only small sample if needed)
+data/*.csv
+data/*.parquet
+data/*.xlsx
+data/*.npy
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Build artifacts
+dist/
+build/
