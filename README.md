@@ -6,7 +6,7 @@ This project explores fraud patterns, handles extreme class imbalance, evaluates
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 FraudAnomalyDetection/
@@ -41,7 +41,7 @@ FraudAnomalyDetection/
 
 ---
 
-# 📘 Project Overview
+# Project Overview
 
 Credit-card fraud datasets are highly imbalanced — fraud represents **only 0.17%** of all transactions.
 This project compares:
