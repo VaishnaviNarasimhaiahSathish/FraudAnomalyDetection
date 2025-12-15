@@ -78,7 +78,7 @@ Key findings:
 
 * Fraud = **0.172%** of data (highly imbalanced)
 <p align="center">
-  <img src="/assets/class_imbalance_plot" alt="CLASS IMBALANCE PLOT" width="550">
+  <img src="/assets/class_imbalance_plot.png" alt="CLASS IMBALANCE PLOT" width="550">
 </p>
 
 * PCA visualization shows slight separation but still overlapping regions
